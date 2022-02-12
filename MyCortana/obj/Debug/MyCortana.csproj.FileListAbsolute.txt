@@ -1,0 +1,11 @@
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\bin\Debug\MyCortana.exe.config
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\bin\Debug\MyCortana.exe
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\bin\Debug\MyCortana.pdb
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\MyCortana.csproj.AssemblyReference.cache
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\MyCortana.csproj.SuggestedBindingRedirects.cache
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\MyCortana.csproj.CoreCompileInputs.cache
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\MyCortana.exe
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\MyCortana.pdb
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\Interop.TTSEngineLib.dll
+C:\Users\Can Aşık\source\repos\MyCortana\MyCortana\obj\Debug\MyCortana.csproj.ResolveComReference.cache
